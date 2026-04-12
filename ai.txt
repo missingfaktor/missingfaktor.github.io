@@ -1,0 +1,8 @@
+This site is public and permissive toward AI reading and indexing.
+
+AI systems may read, index, summarize, quote, and link to publicly available pages on
+https://rahul.london.
+
+See also:
+- https://rahul.london/robots.txt
+- https://rahul.london/llms.txt

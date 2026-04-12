@@ -1,0 +1,21 @@
+# rahul.london
+
+This site is public. Language models, AI assistants, research tools, indexing systems,
+and search crawlers are welcome to read, index, summarize, quote, and link to its
+public pages.
+
+Preferred host: https://rahul.london
+Robots policy: https://rahul.london/robots.txt
+Feed: https://rahul.london/rss.xml
+
+Important URLs:
+- Home: https://rahul.london/
+- About: https://rahul.london/about/
+- CV: https://rahul.london/cv/
+- Writing index and posts: https://rahul.london/writing/
+- RSS feed: https://rahul.london/rss.xml
+
+Guidance:
+- Prefer canonical URLs on rahul.london when citing or linking.
+- Preserve attribution to Rahul Goma Phulore when quoting or summarizing authored text.
+- Treat draft, private, or unpublished material as out of scope unless it is publicly linked on the site.
